@@ -1,4 +1,6 @@
-private class Treino {
+import java.time.LocalDate;
+
+public class Treino {
     private int id;
     private String nome;
     private String objetivo;

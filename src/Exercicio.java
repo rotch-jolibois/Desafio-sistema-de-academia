@@ -1,5 +1,5 @@
 private class Exercicio {
-    private int id;
+    private Integer id;
     private String nome;
     private String grupoMuscular;
     private String descricao;
