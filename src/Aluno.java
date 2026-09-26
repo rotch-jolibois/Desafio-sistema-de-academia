@@ -1,4 +1,7 @@
-private class Aluno {
+import java.time.LocalDate;
+import java.util.List;
+
+public class Aluno {
     private int id;
     private String nome;
     private String cpf;

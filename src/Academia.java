@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-private class Academia {
+public class Academia {
     private List<Aluno> alunos;
     private List<Professor> professores;
     private List<Plano> planos;

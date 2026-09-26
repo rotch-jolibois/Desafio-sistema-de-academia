@@ -1,4 +1,4 @@
-private class Plano {
+public class Plano {
     private int id;
     private String nome;
     private int duracaoMeses;

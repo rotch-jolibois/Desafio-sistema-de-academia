@@ -1,4 +1,4 @@
-private class Itemtreino {
+public class Itemtreino {
     private Exercicio exercicio;
     private int series;
     private int repeticoes;

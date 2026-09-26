@@ -1,4 +1,4 @@
-private class Exercicio {
+public class Exercicio {
     private Integer id;
     private String nome;
     private String grupoMuscular;

@@ -1,6 +1,7 @@
 import java.time.LocalDate;
+import java.util.List;
 
-public class Treino {
+public class Treino<ItemTreino> {
     private int id;
     private String nome;
     private String objetivo;
